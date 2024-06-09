@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @Dr. Rupesh Kumar
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Structural Engineering, and Web Development.
+# 👋 Hi, I’m @ Dr. Rupesh Kumar
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Structural Engineering, Optimization, and Web Development.
 - 🌱 I’m currently learning advanced optimization techniques in AI, deep learning models, and web technologies such as Node.js and React.
 - 💞️ I’m looking to collaborate on AI-driven automation, machine learning projects, web development using modern frameworks, and research in structural engineering.
 - 📫 How to reach me: You can reach me at tipu0003@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rupeshkumar/).
